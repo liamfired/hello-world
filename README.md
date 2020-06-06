@@ -1,2 +1,4 @@
 # hello-world
-road open
+
+Hi humans!
+I want to learn python here.
